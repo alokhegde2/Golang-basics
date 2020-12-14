@@ -3,9 +3,10 @@
 Basic program's written in the golang  for learning go language
 
 ## Programs :
-
-1. Program related to variables how to use the variables, type conversion , printing statements and more.
-
-2.Program realted to datatypes in golang
-
-3.Program related to constants
+<li>
+  <ul>1 : Prgram to display Hello World </ul>
+  <ul>2 : Program related to variables</ul>
+  <ul>3 : Program related to usage of packages and creating our own package</ul>
+  <ul>4 : Program realted to functions</ul>
+  <ul>5 : Program related to usage of arrays and using slices in program</ul>
+ </li>
