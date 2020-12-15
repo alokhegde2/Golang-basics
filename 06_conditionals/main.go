@@ -34,5 +34,6 @@ func main() {
 		fmt.Println("Colour is blue")
 	default:
 		fmt.Println("Colour is not blue or red")
+		
 	}
 }
