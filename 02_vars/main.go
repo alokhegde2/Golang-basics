@@ -16,6 +16,7 @@ func main() {
 	//float32 float64
 	//complex64 complex128
 
+	
 	//creating variable by var variable
 	// var name string = "Alok"
 	var age int = 19
