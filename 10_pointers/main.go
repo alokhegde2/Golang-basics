@@ -16,4 +16,5 @@ func main() {
 	//Change val with pointer
 	*b = 10
 	fmt.Println(a)
+	
 }
