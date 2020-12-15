@@ -33,5 +33,6 @@ func main() {
 
 	for k := range emails {
 		fmt.Println("Name: " + k)
+		
 	}
 }
