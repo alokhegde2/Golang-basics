@@ -13,4 +13,5 @@ func main() {
 	http.HandleFunc("/", index)
 	fmt.Println("Server starting..")
 	http.ListenAndServe(":3000", nil)
+	
 }
