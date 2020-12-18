@@ -21,4 +21,5 @@ func main() {
 	fmt.Printf("%T\n", x)
 	x = 42
 	fmt.Println(x)
+	
 }
