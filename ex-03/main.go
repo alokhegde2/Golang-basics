@@ -22,4 +22,5 @@ var (
 func main() {
 	s := fmt.Sprintf("%v\t%v\t%v\t", x, y, z) //The fmt.Sprintf() function in Go language formats according to a format specifier and returns the resulting string
 	fmt.Println(s)
+	
 }
