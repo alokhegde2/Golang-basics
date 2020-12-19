@@ -33,5 +33,6 @@ func main() {
 	fmt.Println(x)
 	y = int(x) //here we can't do y=x to assign the values of x to y because both are in diff datatype x in hotdog and y in int
 	fmt.Println(y)
+	
 	fmt.Printf("%T\n", y)
 }
