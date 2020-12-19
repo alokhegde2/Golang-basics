@@ -9,4 +9,5 @@ import (
 func main() {
 	x := 10
 	fmt.Printf("%d\t\t%b\t\t%#x", x, x, x) //where %d for integer , %b for binary and %#x for hexadecimal
+	
 }
