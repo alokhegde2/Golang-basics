@@ -21,4 +21,5 @@ func main() {
 	e := (42 > 47)
 	f := (42 < 47)
 	fmt.Println(a, b, c, d, e, f)
+	
 }
